@@ -4,7 +4,7 @@
 
 ## Softwares Used
 - Python 3.8
-- RASA Framework - Rasa is the leading conversational AI platform, for personalized conversations at scale.
+- RASA Framework 2.7.1 - Rasa is the leading conversational AI platform, for personalized conversations at scale.
 - UltraJson 4.0.2 - UltraJSON is an ultra fast JSON encoder and decoder written in pure C with bindings for Python 3.6+.
 - Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019.
 - Tensorflow 2 - TensorFlow is an end-to-end open source platform for machine learning. 
